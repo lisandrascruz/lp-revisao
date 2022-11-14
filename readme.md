@@ -40,7 +40,7 @@ const multiplicacao = 21 * 21;
 const divisao = 21 / 21;
 ```
 
-Além dos amis comuns cidatos acima existe também o módulo da divisão que consiste no resto da divisão de dois números.
+Além dos mais comuns cidatos acima existe também o módulo da divisão que consiste no resto da divisão de dois números.
 
 ```javascript
 const moduloDaDivisão = 21 % 21;
@@ -206,10 +206,30 @@ Divididas em trios, vocês devem fazer um fork desse repositório, responder as 
 
    > conteúdo: operadores lógicos, array, estrutura de repetição e estrutura condicional
 
-2. Faça um função para calcular n! (Fatorial de n), sendo que o valor inteiro de n é fornecido pelo usuário. Sabe-se que: N! = 1 _ 2 _ 3 _ … (n – 1) _ n 0! = 1, por definição;
+2. Faça um função para calcular n! (Fatorial de n), sendo que o valor inteiro de n é fornecido pelo usuário. Sabe-se que por definição 0! = 1. Exemplo de fatorial:
+
+   `10! = 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1`
+
+   `5! = 5 * 4 * 3 * 2 * 1`
+
+   `3! = 3 * 2 * 1`
+
+   `0! = 1`
 
    > conteúdo: operadores aritméticos, estrutura de repetição e estrutura condicional
 
 3. Crie uma função que recebe 3 notas de um aluno por parâmetro e uma letra. Se a letra for A o procedimento calcula a média aritmética das notas do aluno, se for P, a sua média ponderada (pesos: 5, 3 e 2) e se for H, a sua média harmônica.
 
    > conteúdo: operadores aritméticos e estrutura condicional
+
+---
+
+&nbsp;
+
+<center>
+
+  <img src="https://static.wikia.nocookie.net/looneytunes/images/a/a4/THAT%27SALLGIFS.gif/revision/latest/scale-to-width-down/260?cb=20160806162644" alt="drawing" width="300"/>
+
+Feito com carinho por Lis :)
+
+</center>

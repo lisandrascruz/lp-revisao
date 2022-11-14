@@ -27,3 +27,5 @@ const medias = (n1, n2, n3, tipo) => {
 };
 
 console.log(medias(15, 10, 6, "H"));
+console.log(medias(15, 10, 6, "A"));
+console.log(medias(15, 10, 6, "P"));
