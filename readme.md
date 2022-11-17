@@ -1,4 +1,4 @@
-## [2022.2 Minas] Revisão de Lógica de Programação
+## Revisão de Lógica de Programação
 
 ---
 
