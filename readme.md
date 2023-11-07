@@ -2,9 +2,9 @@
 
 ---
 
-<center>
-  <img src="https://thumbs.gfycat.com/PlayfulSoftAmphibian-size_restricted.gif" alt="drawing" width="300"/>
-</center>
+<div align='center'>
+  <img src="https://media4.giphy.com/media/eiAHsLS9cj5u9rOpxH/giphy.gif?cid=6c09b952343j48tbbjna2ufby49nlmh26jskjp0t94i48oe8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="drawing" width="300"/>
+</div>
 
 ---
 
@@ -226,10 +226,10 @@ Divididas em trios, vocês devem fazer um fork desse repositório, responder as 
 
 &nbsp;
 
-<center>
+<div align='center'>
 
   <img src="https://static.wikia.nocookie.net/looneytunes/images/a/a4/THAT%27SALLGIFS.gif/revision/latest/scale-to-width-down/260?cb=20160806162644" alt="drawing" width="300"/>
 
 Feito com carinho por Lis :)
 
-</center>
+</div>
